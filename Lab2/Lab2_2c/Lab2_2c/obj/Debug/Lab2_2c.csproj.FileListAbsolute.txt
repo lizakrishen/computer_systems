@@ -1,0 +1,6 @@
+D:\6 семестр\computer_systems\Lab2_2c\Lab2_2c\bin\Debug\Lab2_2c.exe.config
+D:\6 семестр\computer_systems\Lab2_2c\Lab2_2c\obj\Debug\Lab2_2c.csprojResolveAssemblyReference.cache
+D:\6 семестр\computer_systems\Lab2_2c\Lab2_2c\bin\Debug\Lab2_2c.exe
+D:\6 семестр\computer_systems\Lab2_2c\Lab2_2c\bin\Debug\Lab2_2c.pdb
+D:\6 семестр\computer_systems\Lab2_2c\Lab2_2c\obj\Debug\Lab2_2c.exe
+D:\6 семестр\computer_systems\Lab2_2c\Lab2_2c\obj\Debug\Lab2_2c.pdb

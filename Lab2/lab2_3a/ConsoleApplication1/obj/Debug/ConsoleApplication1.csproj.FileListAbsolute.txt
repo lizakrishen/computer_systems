@@ -1,0 +1,20 @@
+D:\Dmitriy\учёба\AAAAAA\Компьютерные системы\lab2\lab2(3a)\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Dmitriy\учёба\AAAAAA\Компьютерные системы\lab2\lab2(3a)\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Dmitriy\учёба\AAAAAA\Компьютерные системы\lab2\lab2(3a)\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Dmitriy\учёба\AAAAAA\Компьютерные системы\lab2\lab2(3a)\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Dmitriy\учёба\AAAAAA\Компьютерные системы\lab2\lab2(3a)\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\6 семестр\компьютерные системы(Сальников)\Компьютерные системы\lab2\lab2(3a)\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\6 семестр\компьютерные системы(Сальников)\Компьютерные системы\lab2\lab2(3a)\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\6 семестр\компьютерные системы(Сальников)\Компьютерные системы\lab2\lab2(3a)\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\6 семестр\компьютерные системы(Сальников)\Компьютерные системы\lab2\lab2(3a)\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\6 семестр\компьютерные системы(Сальников)\Компьютерные системы\lab2\lab2(3a)\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\6 семестр\компьютерные системы(Сальников)\Компьютерные системы\lab2\lab2(3a)\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\6 семестр\computer_systems\lab2(3a)\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\6 семестр\computer_systems\lab2(3a)\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\6 семестр\computer_systems\lab2(3a)\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\6 семестр\computer_systems\lab2_3a\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\6 семестр\computer_systems\lab2_3a\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\6 семестр\computer_systems\lab2_3a\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\6 семестр\computer_systems\lab2_3a\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\6 семестр\computer_systems\lab2_3a\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\6 семестр\computer_systems\lab2_3a\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
